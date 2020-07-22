@@ -21,13 +21,7 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div>
-<div align="center">
-	<br>
-	<a href="https://twitter.com/@lingarajsah00" target="_blank">
-		<img src="https://github.com/LingarajSah00/LingarajSah00/raw/master/lingaraj%20s%20Resume%20(1)-page-001.jpg" width="800" height="400">
-	</a>
-	<br>
-</div>
+
 <div>My name is Lingaraj Sahoo. I code Java & Angular@Concentrix, am an Java&Angular fan person  <a href="https://medium.com/@LingarajSah00" target="_blank">Medium</a>
 | <a href="https://www.linkedin.com/in/lingarajsah00/" target="_blank">LinkedIN</a></div>
 <br>
