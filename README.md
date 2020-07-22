@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<a href="https://twitter.com/@dcoustawilson" target="_blank">
+	<a href="https://twitter.com/@lingarajsah00" target="_blank">
 		<img src="https://github.com/LingarajSah00/LingarajSah00/raw/master/lingaraj%20s%20Resume%20(1)-page-001.jpg" width="800" height="400">
 	</a>
 	<br>
