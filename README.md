@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div>
-
+<div>My name is Lingaraj Sahoo. I code Java & Angular@Concentrix, am an Java&Angular fan person  <a href="https://medium.com/@LingarajSah00" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded Microsoft MVP in Developer technologies.</div>
+<br>
 https://docs.google.com/viewer?url=https://github.com/LingarajSah00/LingarajSah00/raw/master/lingaraj's%20Resume.pdf
