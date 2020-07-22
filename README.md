@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+	<br>
+	<a href="https://twitter.com/@lingarajsah00" target="_blank">
+		<img src="https://demux.in/images/hire/codingGuy.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
 <div align="center">
 	<br>
 	<a href="https://twitter.com/@lingarajsah00" target="_blank">
