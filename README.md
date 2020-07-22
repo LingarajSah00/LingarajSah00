@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+	<br>
+	<a href="https://twitter.com/@dcoustawilson" target="_blank">
+		<img src="https://svgshare.com/i/N3q.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 https://docs.google.com/viewer?url=https://github.com/LingarajSah00/LingarajSah00/raw/master/lingaraj's%20Resume.pdf
