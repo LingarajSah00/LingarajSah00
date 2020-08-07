@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>My name is Lingaraj Sahoo. I code Java & Angular@Concentrix . I am a passionate learner & I am eager to learn more about technology, people and to understand on going changes in the technical and computer science world.<a href="https://medium.com/@LingarajSah00" target="_blank">Medium</a>
-| <a href="https://www.linkedin.com/in/lingarajsah00/" target="_blank">LinkedIN</a> | <a href="https://www.facebook.com/lingaraj.sahoo.904/" target="_blank">Facebook</a></div>
+| <a href="https://www.linkedin.com/in/lingarajsah00/" target="_blank">LinkedIN</a> | <a href="https://www.facebook.com/lingaraj.sahoo.904/" target="_blank">Facebook</a> | <a href="https://twitter.com/@lingarajsah00" target="_blank">Twitter</a> </div>
 <br>
