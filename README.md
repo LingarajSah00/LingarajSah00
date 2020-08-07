@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 	<br>
 </div>
 
-<div>My name is Lingaraj Sahoo. I code Java & Angular@Concentrix, am an Java&Angular fan person . I am a passionate learner & I am eager to learn more about technology, people and to understand on going changes in the technical and computer science world.<a href="https://medium.com/@LingarajSah00" target="_blank">Medium</a>
+<div>My name is Lingaraj Sahoo. I code Java & Angular@Concentrix . I am a passionate learner & I am eager to learn more about technology, people and to understand on going changes in the technical and computer science world.<a href="https://medium.com/@LingarajSah00" target="_blank">Medium</a>
 | <a href="https://www.linkedin.com/in/lingarajsah00/" target="_blank">LinkedIN</a> | <a href="https://www.facebook.com/lingaraj.sahoo.904/" target="_blank">Facebook</a></div>
 <br>
