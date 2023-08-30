@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<br>
 	<a href="https://twitter.com/@lingarajsah00" target="_blank">
-		<img src="https://demux.in/images/hire/codingGuy.svg" width="800" height="400">
+		<img src="design-icon-web-developer-svg_960911-2333.avif" width="800" height="400">
 	</a>
 	<br>
 </div>
