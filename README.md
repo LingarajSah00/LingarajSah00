@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<br>
 	<a href="https://twitter.com/@lingarajsah00" target="_blank">
-		<img src="6DMO.gif" width="800" height="400">
+		<img src="https://github.com/LingarajSah00/image/blob/main/6DMO.gif" width="800" height="400">
 	</a>
 	<br>
 </div>
