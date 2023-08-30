@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<br>
 	<a href="https://twitter.com/@lingarajsah00" target="_blank">
-		<img src="https://raw.githubusercontent.com/LingarajSah00/image/main/design-icon-web-developer-svg_960911-2333.avif" width="800" height="400">
+		<img src="6DMO.gif" width="800" height="400">
 	</a>
 	<br>
 </div>
